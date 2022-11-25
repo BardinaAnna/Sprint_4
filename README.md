@@ -9,7 +9,7 @@
     home_locatars - локаторы домашней страницы
     questions_about_important_page_locatars - локаторы страницы "вопросы о важном"
 
-    .pages
+    .pages:
     base_page - основные действия с элементами
     from_about_rent_page - действия на второй форме добавления заказа ("Про аренду")
     from_for_whom_is_scooter_page - действия на первой форме добавления заказа ("Для кого самокат")
@@ -19,7 +19,7 @@
     home_pasge - действия с домашней страницей
     questions_about_important_page - действия со страницей "вопросы о важном"
     
-    .tests
+    .tests:
     tests_click_through_to_scooter - позитивные тесты перехода на домашнюю страницу по клику "Самокат" в логотипе
     tests_click_through_toyandex - позитивные тесты перехода на старницу дзена по клику "Яндекс" в логотипе
     tests_questions_about_important - позитивные тесты покрывающие страницу "Важные вопросы"
